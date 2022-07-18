@@ -13,5 +13,9 @@ public class Main {
                 System.out.println(hero1.name);
                 System.out.println(hero1.age);
                 System.out.println(hero1.power);
+                System.out.printf(hero2.name);
+                System.out.println(hero2.age);
+                System.out.println(hero2.power);
+        
     }
 }
