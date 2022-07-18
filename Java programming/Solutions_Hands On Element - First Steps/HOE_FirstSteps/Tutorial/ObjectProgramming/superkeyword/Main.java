@@ -7,7 +7,7 @@ public class Main {
                 //          very similar to the "this" keyword
 
 
-                Hero hero1 = new Hero("Batman",42,"Super Speed");
+               // Hero hero1 = new Hero("Batman",42,"Super Speed");
                 Hero hero2 = new Hero("Superman", 25, "Laser Eyes");
 
                System.out.println(hero2.toString());

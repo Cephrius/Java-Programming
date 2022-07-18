@@ -8,7 +8,7 @@ public class Main {
                 //                     done so that a child calss can give its own implementation.
 
                 Animal animal = new Animal();
-                Dog dog = new Dog();
+               // Dog dog = new Dog();
 
                 animal.speak();
 
