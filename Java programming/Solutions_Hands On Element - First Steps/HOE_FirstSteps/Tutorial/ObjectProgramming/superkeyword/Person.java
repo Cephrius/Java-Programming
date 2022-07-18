@@ -1,7 +1,5 @@
 package Tutorial.ObjectProgramming.superkeyword;
 
-import javax.print.DocFlavor.STRING;
-
 public class Person {
     
         String name;
