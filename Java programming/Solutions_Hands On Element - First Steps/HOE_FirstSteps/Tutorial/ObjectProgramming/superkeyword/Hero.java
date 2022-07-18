@@ -9,5 +9,9 @@ public class Hero extends Person {
                 super(name,age);
                 this.power = power;
         }
+        
+        public String toString(){
+                return super.toString()+ this.power;
+            }
     
 }
