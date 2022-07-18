@@ -8,6 +8,7 @@ public class Main {
 
 
                 Hero hero1 = new Hero("Batman",42,"Super Speed");
+                Hero hero2 = new Hero("Superman", 25, "Laser Eyes")
 
                 System.out.println(hero1.name);
                 System.out.println(hero1.age);
