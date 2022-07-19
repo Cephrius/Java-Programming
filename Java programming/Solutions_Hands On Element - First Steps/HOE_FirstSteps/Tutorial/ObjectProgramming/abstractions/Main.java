@@ -7,7 +7,7 @@ public class Main {
         //                  abstract methods are declared without an implementation
     
             //Vehicle vehicle = new Vehicle();
-            Car car = new Car();  
+           // Car car = new Car();  
     
             car.go();
         

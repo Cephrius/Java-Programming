@@ -1,7 +1,11 @@
 package Package2;
 import Package1.*;
 
-public class C {
+ public class C {
     
-    String defaultMessage = "This is the default.";
+    
+    public  String publicMessage = "This is public.";
+    protected String protectedMessage = "This is protected.";
+            String defaultMessage = "This is the default.";
+    private String privateMessage = "This is the private";
 }
